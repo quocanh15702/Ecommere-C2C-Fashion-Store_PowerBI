@@ -1,4 +1,4 @@
-![image](https://github.com/quocanh15702/Ecommere-C2C-Fashion-Store_PowerBI/assets/153212592/d641a3f3-eb89-4177-b3a1-d6d41da16fed)# Ecommere C2C Fasion Store Project
+# Ecommere C2C Fasion Store Project
 ### Report Link: [Click here](https://app.powerbi.com/view?r=eyJrIjoiYTIyYjA2ZGUtNzRiZC00MzM2LWFjYTAtM2U5ZDJiZDFkMGMwIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection3de2d46356984c560c67)
 ### 1. Dataset Introduction
 The data source is taken from an online C2C fashion store launched in Europe around 2009 and then successfully expanded worldwide with more than 9 million users. 
